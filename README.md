@@ -3,6 +3,6 @@
 
 🇬🇧 Practice of a basic responsive website.
 ## Demo
-[Web Responsive](https://aidagomezgalan.github.io/jweb-responsive/)
+[Web Responsive](https://aidagomezgalan.github.io/web-responsive/)
 ## Preview
 ![Screenshot de web responsive](screenshot.png)
